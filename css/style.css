@@ -1,0 +1,23 @@
+body{
+	background-color: #b4a5a5;
+}
+h1{
+	font-size: 25px;
+	color: #f2f2f2;
+	text-align: center;
+}
+.list-group{
+	background-color: #282846;
+	width: 50%;
+	margin: 0 auto;
+}
+
+li{
+	padding: 5px;
+	margin: 10px;
+
+}
+.list-group-item{
+	display: flex;
+	justify-content: space-between;
+}
